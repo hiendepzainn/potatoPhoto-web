@@ -367,21 +367,21 @@
 .box-5 .image1 {
   width: 100%;
   height: 30vh;
-  background-image: url(/images/box-5-1.jpg);
+  background-image: url(images/box-5-1.jpg);
   background-size: cover;
   background-position: 0px -90px;
 }
 .box-5 .image2 {
   width: 100%;
   height: 30vh;
-  background-image: url(/images/box-5-2.jpg);
+  background-image: url(images/box-5-2.jpg);
   background-size: cover;
   background-position: 0px -110px;
 }
 .box-5 .image3 {
   width: 100%;
   height: 30vh;
-  background-image: url(/images/box-5-3.jpg);
+  background-image: url(images/box-5-3.jpg);
   background-size: cover;
   background-position: 0px -50px;
 }
@@ -534,7 +534,7 @@
   width: 60%;
   height: auto;
   aspect-ratio: 1/1;
-  background-image: url(/images/box-7-mem-1.jpg);
+  background-image: url(images/box-7-mem-1.jpg);
   background-size: cover;
   background-position: -8px 0px;
   border-radius: 50%;
@@ -545,7 +545,7 @@
   width: 60%;
   height: auto;
   aspect-ratio: 1/1;
-  background-image: url(/images/box-7-mem-2.jpg);
+  background-image: url(images/box-7-mem-2.jpg);
   background-size: cover;
   background-position: -8px 0px;
   border-radius: 50%;
@@ -556,7 +556,7 @@
   width: 60%;
   height: auto;
   aspect-ratio: 1/1;
-  background-image: url(/images/box-7-mem-3.jpg);
+  background-image: url(images/box-7-mem-3.jpg);
   background-size: cover;
   background-position: -8px 0px;
   border-radius: 50%;
@@ -567,7 +567,7 @@
   width: 60%;
   height: auto;
   aspect-ratio: 1/1;
-  background-image: url(/images/box-7-mem-4.jpg);
+  background-image: url(images/box-7-mem-4.jpg);
   background-size: cover;
   background-position: -8px 0px;
   border-radius: 50%;
@@ -621,7 +621,7 @@
 }
 
 .box-8 .image {
-  background-image: url(/images/box-8.jpg);
+  background-image: url(images/box-8.jpg);
   width: 100%;
   height: 68vh;
   background-size: cover;
@@ -707,7 +707,7 @@
 .comment-component .block:nth-child(1) .image {
   width: 64px;
   height: 64px;
-  background-image: url(/images/box-7-mem-1.jpg);
+  background-image: url(images/box-7-mem-1.jpg);
   background-size: cover;
   background-position: -4px 0px;
   border-radius: 50%;
@@ -717,7 +717,7 @@
 .comment-component .block:nth-child(2) .image {
   width: 64px;
   height: 64px;
-  background-image: url(/images/box-7-mem-2.jpg);
+  background-image: url(images/box-7-mem-2.jpg);
   background-size: cover;
   background-position: -4px 0px;
   border-radius: 50%;
@@ -727,7 +727,7 @@
 .comment-component .block:nth-child(3) .image {
   width: 64px;
   height: 64px;
-  background-image: url(/images/box-7-mem-3.jpg);
+  background-image: url(images/box-7-mem-3.jpg);
   background-size: cover;
   background-position: -4px 0px;
   border-radius: 50%;
